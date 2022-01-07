@@ -24,12 +24,10 @@ This App Using API https://www.thecocktaildb.com/api.php
 |Spotlight | https://github.com/wooplr/Spotlight|
 
 ## Screenshots
-<img src="screenshots/1.png" width="300" >
-<img src="screenshots/2.png" width="300" >
-<img src="screenshots/3.png" width="300" >
-<img src="screenshots/4.png" width="300" >
-<img src="screenshots/5.png" width="300" >
-<img src="screenshots/6.png" width="300" >
-<img src="screenshots/7.png" width="300" >
-
-![alt text](https://github.com/hafidrf/ESQCocktailHafid/blob/master/screenshots/1.png?raw=true)
+<img src="screenshots/1.PNG" width="300" >
+<img src="screenshots/2.PNG" width="300" >
+<img src="screenshots/3.PNG" width="300" >
+<img src="screenshots/4.PNG" width="300" >
+<img src="screenshots/5.PNG" width="300" >
+<img src="screenshots/6.PNG" width="300" >
+<img src="screenshots/7.PNG" width="300" >
