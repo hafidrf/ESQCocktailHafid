@@ -25,7 +25,6 @@ This App Using API https://www.thecocktaildb.com/api.php
 
 ## Screenshots
 <img src="screenshots/1.png" width="300" >
-<img src="/hafidrf/ESQCocktailHafid/raw/master/screenshots/1.png" width="300" >
 <img src="screenshots/2.png" width="300" >
 <img src="screenshots/3.png" width="300" >
 <img src="screenshots/4.png" width="300" >
@@ -33,4 +32,4 @@ This App Using API https://www.thecocktaildb.com/api.php
 <img src="screenshots/6.png" width="300" >
 <img src="screenshots/7.png" width="300" >
 
-[comment]: <> (![alt text]&#40;https://github.com/hafidrf/ESQCocktailHafid/blob/master/screenshots/1.png?raw=true&#41;)
+![alt text](https://github.com/hafidrf/ESQCocktailHafid/blob/master/screenshots/1.png?raw=true)
